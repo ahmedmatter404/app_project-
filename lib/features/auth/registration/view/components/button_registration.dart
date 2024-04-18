@@ -10,8 +10,8 @@ class ButtonRegistrationWidget extends StatelessWidget {
     return Column(
       children: [
         SizedBox(
-          width: context.width - 30,
-          height: 50,
+          width: context.width - 40,
+          height: 55,
           child: FilledButton(
             style: ButtonStyle(
                 backgroundColor: MaterialStatePropertyAll(context.forgroundColor),
@@ -23,7 +23,10 @@ class ButtonRegistrationWidget extends StatelessWidget {
             onPressed: () {},
             child: const Text(
               'Confirm',
-              style: TextStyle(color: Colors.white, fontSize: 18),
+              style: TextStyle(
+                color: Colors.white,
+                fontSize: 18,
+              ),
             ),
           ),
         ),

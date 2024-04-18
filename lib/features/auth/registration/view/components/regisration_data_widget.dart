@@ -102,19 +102,18 @@ class RegistrationDataWidget extends StatelessWidget {
         ));
   }
 
-  InputDecoration decoration = const InputDecoration(
-      fillColor: Color.fromARGB(250, 230, 245, 255),
+  InputDecoration decoration = InputDecoration(
+      fillColor: const Color.fromARGB(250, 230, 245, 255),
       filled: true,
       border: OutlineInputBorder(
-        borderSide: BorderSide(color: Colors.grey, width: 1),
-
-        // borderRadius: BorderRadius.circular(30),
+        borderSide: const BorderSide(color: Colors.grey, width: 1),
+        borderRadius: BorderRadius.circular(10),
       ),
-      focusedBorder: OutlineInputBorder(
+      focusedBorder: const OutlineInputBorder(
         borderSide: BorderSide(color: Color(0xff14238A), width: 2),
         // borderRadius: BorderRadius.circular(10);
       ),
-      errorBorder: OutlineInputBorder(
+      errorBorder: const OutlineInputBorder(
         borderSide: BorderSide(color: Colors.red, width: 2),
 
         // borderRadius: BorderRadius.circular(50)
