@@ -111,7 +111,7 @@ class RegistrationDataWidget extends StatelessWidget {
         // borderRadius: BorderRadius.circular(30),
       ),
       focusedBorder: OutlineInputBorder(
-        borderSide: BorderSide(color: Colors.blue, width: 2),
+        borderSide: BorderSide(color: Color(0xff14238A), width: 2),
         // borderRadius: BorderRadius.circular(10);
       ),
       errorBorder: OutlineInputBorder(
