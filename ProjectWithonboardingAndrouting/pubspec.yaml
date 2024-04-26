@@ -1,0 +1,47 @@
+name: frist_pages
+description: "A new Mobile project for real Estates In Menofia."
+
+publish_to: "none" # Remove this line if you wish to publish to pub.dev
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=3.2.6 <4.0.0"
+
+  # path: ^1.8.0
+#  dependancies
+dependencies:
+  # a: ^1.0.0
+  # path: ^1.8.3
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^1.0.2
+  sqflite: ^2.3.2
+  # flutter_native_splash: ^2.3.11
+  shared_preferences: ^2.2.3
+  bloc: ^8.1.4
+  flutter_bloc: ^8.1.5
+# developer dependancies
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_native_splash: ^2.3.11
+  flutter_lints: ^2.0.0
+flutter:
+  uses-material-design: true
+
+  # assets
+  assets:
+    - assets/images/
+
+    # spash screen
+# flutter_native_splash:
+#   color: "##E6F5FA"
+#   image: "assets/images/logo.jpg"
+flutter_native_splash:
+  color: "##E6F5FA"
+  image: "assets/images/logo.jpg"
+  android_12:
+    color: "##E6F5FA"
+    image: "assets/images/logo.jpg"

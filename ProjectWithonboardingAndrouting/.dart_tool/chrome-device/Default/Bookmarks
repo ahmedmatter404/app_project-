@@ -1,0 +1,240 @@
+{
+   "checksum": "e7f811aa69afc2b0ed6db740da4fd118",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13314795951228156",
+            "date_last_used": "0",
+            "guid": "6525924f-41d6-4dff-a6ca-80245712cfa3",
+            "id": "7",
+            "name": "wordpress",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "http://127.0.0.1/wordpress/wp-admin/"
+         }, {
+            "date_added": "13323134051171244",
+            "date_last_used": "0",
+            "guid": "68b08c9e-28b3-4230-bd8b-459a823e9824",
+            "id": "8",
+            "name": "JetBrains Account",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://account.jetbrains.com/login"
+         }, {
+            "date_added": "13283366891231876",
+            "date_last_used": "0",
+            "guid": "3d4ac3c1-d0da-4977-af11-eb807880a891",
+            "id": "9",
+            "name": "Gmail",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://accounts.google.com/b/0/AddMailService"
+         }, {
+            "date_added": "13283366891233040",
+            "date_last_used": "0",
+            "guid": "2a7b7d17-e832-437c-b551-dac04d390b11",
+            "id": "10",
+            "name": "YouTube",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://youtube.com/"
+         }, {
+            "date_added": "13283366891233762",
+            "date_last_used": "0",
+            "guid": "3b455d98-5fa8-4d35-9c78-06778cf2bc7a",
+            "id": "11",
+            "name": "Maps",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://maps.google.com/"
+         }, {
+            "date_added": "13312957228939124",
+            "date_last_used": "0",
+            "guid": "ed7dfb5f-86f3-4b11-86e1-0354644b2ad3",
+            "id": "12",
+            "name": "thinqi",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://sso.eetest.online/login"
+         }, {
+            "date_added": "13314316416995022",
+            "date_last_used": "0",
+            "guid": "213ecf90-f3ea-4028-a0f5-1eace3b0057d",
+            "id": "13",
+            "name": "",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "chrome://settings/people"
+         }, {
+            "date_added": "13314482283500005",
+            "date_last_used": "0",
+            "guid": "a7ff0a5a-01e2-437c-bf3a-1025b9ef0222",
+            "id": "14",
+            "name": "Data structure Review",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://band-salute-6b6.notion.site/Data-structure-Review-825dff59858541d5882739ede56685b6"
+         }, {
+            "date_added": "13314796027200365",
+            "date_last_used": "0",
+            "guid": "30edaa0f-c282-4eca-b0bf-b79577149ee8",
+            "id": "15",
+            "name": "wordpress",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "http://127.0.0.1/wordpress/"
+         }, {
+            "date_added": "13314961442640509",
+            "date_last_used": "0",
+            "guid": "d5f30cbf-d9eb-4ad9-ba70-cf2bbe4f0912",
+            "id": "16",
+            "name": "Dashboard ‹ samar's blog — WordPress",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "http://127.0.0.1/wordpress/wp-admin/"
+         }, {
+            "children": [ {
+               "date_added": "13312141756665190",
+               "date_last_used": "0",
+               "guid": "3ea17039-da97-4d32-8198-4ae49eece5f5",
+               "id": "18",
+               "name": "codeforces",
+               "show_icon": false,
+               "source": "sync",
+               "type": "url",
+               "url": "https://codeforces.com/"
+            }, {
+               "date_added": "13314369187623127",
+               "date_last_used": "0",
+               "guid": "7a3fa869-4fe6-4218-86a5-d5b97fb3edc7",
+               "id": "19",
+               "name": "Dashboard - Contest #1 - Codeforces",
+               "show_icon": false,
+               "source": "sync",
+               "type": "url",
+               "url": "https://codeforces.com/group/MWSDmqGsZm/contest/326175"
+            }, {
+               "date_added": "13314652760516368",
+               "date_last_used": "0",
+               "guid": "674f10d9-a036-4ce0-a349-c42e1e78cfe3",
+               "id": "20",
+               "name": "Problemset - Codeforces",
+               "show_icon": false,
+               "source": "sync",
+               "type": "url",
+               "url": "https://codeforces.com/problemsets/acmsguru?order=BY_SOLVED_DESC"
+            }, {
+               "date_added": "13314694561188843",
+               "date_last_used": "0",
+               "guid": "b977bdd6-6bff-40e8-893d-f5306e42798b",
+               "id": "21",
+               "name": "Dashboard - Sheet #2 (Loops) - Codeforces",
+               "show_icon": false,
+               "source": "sync",
+               "type": "url",
+               "url": "https://codeforces.com/group/MWSDmqGsZm/contest/219432"
+            }, {
+               "date_added": "13314323550874402",
+               "date_last_used": "0",
+               "guid": "34f5b2cc-e8fa-4e30-b4d8-42db81b747e3",
+               "id": "22",
+               "name": "Al-Azhar ICPC Community - Level 1 Training'21",
+               "show_icon": false,
+               "source": "sync",
+               "type": "url",
+               "url": "https://sites.google.com/view/azharicpc/training-plans/level-1-training21?authuser=0"
+            }, {
+               "date_added": "13314323632336832",
+               "date_last_used": "0",
+               "guid": "47cbe915-4bb4-4be6-a418-f35c6e7daf86",
+               "id": "23",
+               "name": "(94) CPP for beginners - سي بلس للمبتدئين - YouTube",
+               "show_icon": false,
+               "source": "sync",
+               "type": "url",
+               "url": "https://www.youtube.com/playlist?list=PLPt2dINI2MIbwnEoeHZnUHeUHjTd8x4F3"
+            }, {
+               "date_added": "13319287504291912",
+               "date_last_used": "0",
+               "guid": "68d9a265-307a-448b-9410-e1a20d0c186f",
+               "id": "24",
+               "name": "New Tab",
+               "show_icon": false,
+               "source": "sync",
+               "type": "url",
+               "url": "https://www.coursera.org/learn/learning-how-to-learn/home/welcome"
+            } ],
+            "date_added": "13323615273645443",
+            "date_last_used": "0",
+            "date_modified": "13323615273645443",
+            "guid": "8a7f245a-0bb1-4529-b744-b23215515337",
+            "id": "17",
+            "name": "for problems",
+            "source": "unknown",
+            "type": "folder"
+         }, {
+            "date_added": "13316284762040992",
+            "date_last_used": "0",
+            "guid": "cf735cb9-fa14-43ea-9afc-09195c6c45d8",
+            "id": "25",
+            "name": "Typing Lessons - Learn To Type And Improve Typing Speed Free - Typing.com",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www.typing.com/student/lessons"
+         }, {
+            "date_added": "13319287510786635",
+            "date_last_used": "0",
+            "guid": "564ea1a3-afa9-4fe8-a713-9567b187cf68",
+            "id": "26",
+            "name": "Learning How to Learn: Powerful mental tools to help you master tough subjects | Coursera",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www.coursera.org/learn/learning-how-to-learn"
+         } ],
+         "date_added": "13358259727420682",
+         "date_last_used": "0",
+         "date_modified": "13323134051171244",
+         "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
+         "id": "1",
+         "name": "Favorites bar",
+         "source": "unknown",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13358259727420685",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
+         "id": "2",
+         "name": "Other favorites",
+         "source": "unknown",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13358259727420688",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "4cf2e351-0e85-532b-bb37-df045d8f8d0f",
+         "id": "3",
+         "name": "Mobile favorites",
+         "source": "unknown",
+         "type": "folder"
+      }
+   },
+   "sync_metadata": "CjEKDgiIgQISCAbIib6NAQAAEgAqGE4rSncvTmkrZUNNMlZ2SEIxdFY2TWc9PUgDoAYHEqgBCBQSowEKHEN1akZOYVNvQW1qNEp6VFgzelpRdTEzN3dwdz0SJDY3NGYxMGQ5LWEwMzYtNGNlMC1hMzQ5LWM0MmUxZTc4Y2ZlMxgAIAAoADDwjYCl7zA45JCApe8wQOSQgKXvMEocVGhuYm5TczVDVXZVbUIvWHZMaU45bTh2cTNzPVofIh3eMTFaQVppK1JPc2xUVnUrT3V2ZlBzb0d5YmpZPWUj+2FoEqkBCBkSpAEKHEpsdEtzQlVDL1NweG1tcEZqYVY0cEd5Q1lBZz0SJGNmNzM1Y2I5LWZhMTQtNDNlYS05YWZjLTA5MTk1YzZjNDVkOBgAIAAoADCFkKf02zE44ZGApe8wQOGRgKXvMEocdjRsdSszRFhqaGdoaVBOeWsvNWZob3k2bUwwPVogIh7/7jlFS0t5aEplc25zRzlqaDRUQkpET1YwZFpiUT1lv1M4MBKnAQgSEqIBChxDaUNVQzgwY0VqVW9NVUpka3ozeGpiRkUvemc9EiQzZWExNzAzOS1kYTk3LTRkMzItODE5OC00YWU0OWVlY2U1ZjUYACAAKAAw7o2Ape8wOLWQgKXvMEC1kICl7zBKHDBIQjFiNlJDMFBNL1J2WTdodzJ0SXFzY05SZz1aHiIceWdKb3ZVL0J2ck5FWFh3bHB3MU1mVk9DVXE0PWUj+2FoEqkBCBESpAEKHGVnWCs2dXdHbUFOb2V4KzFUMlJwVm1HNERIOD0SJDhhN2YyNDVhLTBiYjEtNDUyOS1iNzQ0LWIyMzIxNTUxNTMzNxgAIAAoADDtjYCl7zA4lZCApe8wQJWQgKXvMEocYkgyMWtXaDJycFM5aTl4Zm9zK3ZRRlI0dzUwPVogIh7/3ThxbncvWDlPMzdCODFoMG1IOElmZlc5bkNGMD1lAAAAABKpAQgQEqQBChxqd0VSb1UwN29KeTREM2tPVnhWMjk0d3BLb0k9EiRkNWYzMGNiZi1kOWViLTRhZDktYmE3MC1jZjJiYmU0ZjA5MTIYACAAKAAw7I2Ape8wOIaQgKXvMECGkICl7zBKHHUyUVJXd0hxL2dhcVFnYWxHdDJvcExxaUN4cz1aICIe/7tHK2RmUHNTYTVNRWMwclVGT010MjVVR2R4R289Zeal+6ISqAEIDhKjAQocMmtha1ZKdWJZOGthcG96dGNqV1NoUTdMYnJ3PRIkYTdmZjBhNWEtMDFlMi00MzdjLWJmM2EtMTAyNWI5ZWYwMjIyGAAgAigAMIOQp/TbMTjnj4Cl7zBAvOX0rPAxShw3YWlTQ2VYMGVPNndBTTZEM2RJT1kzSWo1b1U9Wh8iHf5BcEdtL3NLNTFhcXB0M2dqOHhSL3U5aEIram89ZX4nwYQSqAEIDBKjAQocNnFtcU1oZ1lPZzhpWWdUT1JBVm1FMVVjdHVZPRIkZWQ3ZGZiNWYtODZmMy00YjExLTg2ZTEtMDM1NDY0NGIyYWQzGAAgAigAMIGQp/TbMTioj4Cl7zBAvOX0rPAxShxoSUtnbFVBV05GWkw3NUxYTTRrdEFDMkZlYUU9Wh8iHftnTmd5S3lpdTRGVVMwT2xvdzZIT0psNVZIenM9ZQJWdSsSqAEIFRKjAQoceFlQMWljai9OaTRMRGdRZVJ0MkdESU5CMk9NPRIkYjk3N2JkZDYtNmJmZi00MGU4LTg5M2QtZjUzMDZlNDI3OThiGAAgACgAMPGNgKXvMDjzkICl7zBA85CApe8wShx0SjdST2t5RlRlUzFXbE5BTG9lS2dlYnAwSm89Wh8iHe9tNHQ0UjJ6WlpMWHJpbXRlNkpvZ3BBNlJBV1U9ZSP7YWgSqAEIChKjAQocYTROSHN0QjNzZEl6cGNYeE5wM1pFdHo0MnBFPRIkMmE3YjdkMTctZTgzMi00MzdjLWI1NTEtZGFjMDRkMzkwYjExGAAgAigAMIKQp/TbMTiYj4Cl7zBAu+X0rPAxShxMUWhnblVybGl3WS9XdXg5dlNITEI1d2JralE9Wh8iHe5GSWhPSTVIK0xpd2pRQTFJbFYySTQ2a3BzZXc9ZTj5OTMSqAEIFhKjAQocNlBLdFNvMS85a0w5a0FWaDBWVTQwc1FRL253PRIkMzRmNWIyY2MtZThmYS00ZTMwLWI0ZDgtNDJkYjgxYjc0N2UzGAAgACgAMPKNgKXvMDiSkYCl7zBAkpGApe8wShw0YXZFSmJhczNEWGZ4TVN5Wk1LN0ZKdGVBRGc9Wh8iHfdVUGNwQXpWcENJTG9XOFRob2hPTkxPSW4vTTQ9ZQncC+0SqAEICxKjAQocdWh6Z2o4TzZLaGJndythOTFOTUVDMCs5T3QwPRIkM2I0NTVkOTgtNWZhOC00ZDM1LTljNzgtMDY3NzhjZjJiYzdhGAAgAigAMP+Pp/TbMTjHj4Cl7zBAu+X0rPAxShwvTEMzNE40WFhaWDQzaWVwNXJIdXEycjhVa2s9Wh8iHfdTUDFWbU5UdG5KMGJGQ0tKOURaM09IdnBrM009ZaT76JgSqAEIDRKjAQocdWRSN3IwVmhON2I3dEV2SDlLdk51bDNnVnZNPRIkMjEzZWNmOTAtZjNlYS00MDI4LWEwZjUtMWVhY2UzYjAwNTdkGAAgACgAMOeNgKXvMDj5joCl7zBA+Y6Ape8wShw5NzhCMDB5SWcrdHIyeHczRUxYdlNBQUp1cmc9Wh8iHf0rdVA0SmorY0I3MjRjM2ZKaGRObFcyY1JkWkE9ZQAAAAASpwEIBxKiAQocMGJxQWNSSmhNV1VFdTZOVkRYSHZxZ0FKT0xRPRIkNjUyNTkyNGYtNDFkNi00ZGZmLWE2Y2EtODAyNDU3MTJjZmEzGAAgAigAMISQp/TbMTi7joCl7zBAt+X0rPAxShxzc1d3TzNFYnhvbndyNGxOOXY3QTBEaUN2d289Wh4iHHBqMDZBS0s3cDd1cGxTSEJDUU9sTXJyVGxrRT1l5qX7ohKoAQgYEqMBChxic3B3MnlkdnJzdE5tcm8rREFLclM2TkZ4dkk9EiQ2OGQ5YTI2NS0zMDdhLTQ0OGItOTQxMC1lMWEyMGQwYzE4NmYYACAAKAAw9I2Ape8wONGRgKXvMEDRkYCl7zBKHHc4QmZFbjlzWklJKzlIUkxnOW9veE9SQlliaz1aHyId/W8vTW5jcmNtanVESkJ1N0EwZ28valpnakZJOD1lJpu8ABKoAQgXEqMBChxyalNsdlBoa2tIN2Roa0M5OWp4VDQ5czJCak09EiQ0N2NiZTkxNS00YmI0LTRiZTYtYTQxOC1mMzVjNmU3ZGFmODYYACAAKAAw842Ape8wOLKRgKXvMECykYCl7zBKHGllcG5xcTlLdHR3d3R2aTNRMHhsbEdtOFU1ST1aHyId+21YalZoaWRzQUYzWUVySTJ3c2NPbWF4VEFmOD1lOPk5MxKoAQgIEqMBChw0b0l5YkE0ODJPeW05em0rcXg0b3ZSR0JMR2c9EiQ2OGIwOGM5ZS0yOGIzLTQyMzAtYmQ4Yi00NTlhODIzZTk4MjQYACACKAAwgJCn9NsxOKuOgKXvMEC45fSs8DFKHGphUS9FTlpzcmJWbnh3NGFWOG4yT05QbHpvZz1aHyIduCtjUDRnTExWSWc1bEtsRjdQZnZBdWpHSEI2OD1lcLWQXxKoAQgPEqMBChxMT2JHQ0hzOU5pbmZTT3hoUjFMZzVQcTVrRGc9EiQzMGVkYWEwZi1jMjgyLTRlY2EtYjBiZi1iNzk1NzcxNDllZTgYACACKAAw/Y+n9NsxOJuOgKXvMEC95fSs8DFKHDhtMGZ6eEQ1N3EvNnBUdldHNUk5K2t5Y1ZWMD1aHyId/3dXald5YzE1Q1p3WDhZbC9SL2JjSDAyOUtmST1l5qX7ohKoAQgJEqMBChwwR1NCUFhQbVdMUWl0TXJLaGdTTGhWaGx2UE09EiQzZDRhYzNjMS1kMGRhLTQ5NzctYWYxMS1lYjgwNzg4MGE4OTEYACACKAAw/o+n9NsxOOqOgKXvMEC55fSs8DFKHDhWY2hKUHpjeTZ2SWxIZFlvS3BnNE4vc001az1aHyId3GN2YlRzbWZkb2tONENaWmtKMlpOdE1oak5kUT1lmz2FthKpAQgaEqQBChwxenY5QUhUZU43V2VwRm5WNCtXOHk2cmROSXc9EiQ1NjRlYTFhMy1hZmE5LTRmZTgtYTcxMy05NTY3YjE4N2NmNjgYACAAKAAw/I+n9NsxOPyNgKXvMED8jYCl7zBKHDZGTjZTb29LaS80UHdCVElER2lONXFZT1JhND1aICIe//d3UXp1RGpFUEU1VmgxQ3d2SnBtUDZFVU82d0E9ZSabvAASqAEIExKjAQocNitoTXNvaXFQZlR1bTNJeUVwZ1A3QVptSVdvPRIkN2EzZmE4NjktNGZlNi00MjE4LTg2YTUtZDViOTdmYjNlZGM3GAAgACgAMO+NgKXvMDjEkICl7zBAxJCApe8wShw4V3lUNmlUYWRGa2xXQzl3NitlZWo1OFZva0k9Wh8iHbxweUZyTUU1NmQrOFdPaTNEaDkzbk54Q1VqdHM9ZSP7YWgSiQEIARKEAQoceXhKLzZmdmtlY3I3a3A1RVF6QjR0V0xwZGJFPRIkMDAwNGIxYzUtMmMwMy01MDEzLWFiMmYtNjYwNzBmNjgyN2JiGAAgACgAMNeR3f/nMDifk93/5zBAn5Pd/+cwShxhUkNXTGdoRjliNUlucUtJRHZ1Si9qdlFrRmM9WgBlAAAAABKJAQgCEoQBChxZY1NUb252RVNQd3FDczRMMmNyVmh2NjhMOTg9EiQyZDZjYzA4OC04ODNiLTU3OTQtODcyNi1mYzNlY2M4MGY5YjcYACAAKAAw2JHd/+cwOL6T3f/nMEC+k93/5zBKHG9QVmtod0JSYlY2NUtDV1IyK0lPTkhXb091OD1aAGUAAAAAEokBCAMShAEKHG5qZ0R1ODhlQ3J2WHA4NnBEN2ZIR2NxRnA4OD0SJGU4ODgwYjA0LWM2NTktNTJmMy1iZTZjLWI0MzI3MDM3NTA0NBgAIAAoADDdkd3/5zA42pTd/+cwQNqU3f/nMEoceXpOQjAxY241NEE3Y1JVMHVUKy9QZ21UdFVvPVoAZQAAAAAwADgA",
+   "version": 1
+}

@@ -1,0 +1,1 @@
+ C:\\Users\\salsa\\OneDrive\\Desktop\\app_project--revamp_18_4\\.dart_tool\\flutter_build\\ec33b1b888646582f8ba71f0dbe93226\\native_assets.yaml: 
