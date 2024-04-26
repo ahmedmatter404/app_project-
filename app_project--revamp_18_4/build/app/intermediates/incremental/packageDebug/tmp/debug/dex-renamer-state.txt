@@ -1,0 +1,4 @@
+#Fri Apr 26 04:54:51 EEST 2024
+base.0=C\:\\Users\\salsa\\OneDrive\\Desktop\\app_project--revamp_18_4\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
