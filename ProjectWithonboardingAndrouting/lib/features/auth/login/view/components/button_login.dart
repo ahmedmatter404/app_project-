@@ -34,7 +34,8 @@ class ButtonLogin extends StatelessWidget {
         Row(
           mainAxisAlignment: MainAxisAlignment.center,
           children: [const Text("Don't have account ? ",style: TextStyle(color: Color(0xff14238A)),) ,
-            TextButton(onPressed: () {
+            TextButton(
+              onPressed: () {
                 Navigator.of(context).push(MaterialPageRoute(builder: (v) {
                       return const RegistrationPage ();
                     }

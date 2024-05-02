@@ -1,9 +1,13 @@
+import 'dart:developer';
+
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
 import 'package:frist_pages/core/utils/extension.dart';
 import 'package:frist_pages/features/auth/login/view/page/login_page.dart';
 // import 'package:frist_pages/features/auth/login/view/page/login_page.dart';
 import 'package:frist_pages/features/auth/registration/controller/cubit/registration_cubit.dart';
+import 'package:frist_pages/features/dashbord/modules-users/model/repo/local_db_data.dart';
+import 'package:sqflite/sqflite.dart';
 
 class ButtonRegistrationWidget extends StatelessWidget {
   const ButtonRegistrationWidget({super.key, required this.controller});
@@ -34,7 +38,10 @@ class ButtonRegistrationWidget extends StatelessWidget {
                             borderRadius: BorderRadius.circular(10.0),
                           ),
                         )),
-                    onPressed: () {
+                    onPressed: () async {
+                      await (await DatabaseRepo.instance)
+                          .insert(name: 'Samar', address: 'shebin');
+                         log('Added successfully');
                       controller.onpressedConfirmButton(context);
                       // controller.onpressedConfirmButton,
                     },
@@ -62,7 +69,10 @@ class ButtonRegistrationWidget extends StatelessWidget {
                         {
                           Navigator.of(context)
                               .push(MaterialPageRoute(builder: (v) {
-                            return  const LoginPage( firstName: ' ', lastName: '',);
+                            return const LoginPage(
+                              firstName: ' ',
+                              lastName: '',
+                            );
                           }));
                         }
                       },

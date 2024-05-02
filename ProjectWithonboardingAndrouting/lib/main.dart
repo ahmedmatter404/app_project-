@@ -1,13 +1,16 @@
+//import 'package:flutter/material.dart';
 import 'package:flutter/material.dart';
 import 'package:frist_pages/features/auth/login/view/page/login_page.dart';
 import 'package:frist_pages/features/auth/onboarding/view/page/onboarding_page.dart';
 import 'package:frist_pages/features/auth/registration/view/page/regisration_page.dart';
+import 'package:frist_pages/features/dashbord/view-page/dashboardPage.dart';
 import 'package:shared_preferences/shared_preferences.dart';
+//import 'package:shared_preferences/shared_preferences.dart';
 // import 'package:frist_pages/features/auth/registration/view/page/regisration_page.dart';
 // import 'package:frist_pages/features/auth/registration/view/page/regisration_page.dart';
 // import 'package:shared_preferences/shared_preferences.dart';
 
-void main() async {
+void main() async { 
   WidgetsFlutterBinding.ensureInitialized();
   SharedPreferences sharedPreferences = await SharedPreferences.getInstance();
   bool onBoarding = sharedPreferences.getBool('onboarding') ?? false;
@@ -20,6 +23,9 @@ void main() async {
     onGenerateInitialRoutes: (_) => onBoarding?MyRoutes.initRoutes: MyRoutes.firstRoutes ,
   );
 
+  // MaterialApp materialApp = const MaterialApp(
+  //   home: dashboardpage(),
+  //);
   runApp(materialApp);
 }
 

@@ -15,9 +15,10 @@ dependencies:
   # path: ^1.8.3
   flutter:
     sdk: flutter
-
+     
   cupertino_icons: ^1.0.2
   sqflite: ^2.3.2
+  path: ^1.9.0
   # flutter_native_splash: ^2.3.11
   shared_preferences: ^2.2.3
   bloc: ^8.1.4
